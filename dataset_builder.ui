@@ -297,7 +297,7 @@ font-size: 14px;</string>
     <rect>
      <x>790</x>
      <y>450</y>
-     <width>81</width>
+     <width>101</width>
      <height>16</height>
     </rect>
    </property>
@@ -354,7 +354,7 @@ border-left-color: rgb(192, 192, 192);</string>
     <rect>
      <x>160</x>
      <y>120</y>
-     <width>81</width>
+     <width>101</width>
      <height>16</height>
     </rect>
    </property>
@@ -372,7 +372,7 @@ font-size: 14px;</string>
     <rect>
      <x>530</x>
      <y>120</y>
-     <width>81</width>
+     <width>101</width>
      <height>16</height>
     </rect>
    </property>

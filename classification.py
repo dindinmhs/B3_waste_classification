@@ -1,6 +1,5 @@
 import sys
 import cv2
-import numpy as np
 import joblib
 from skimage.feature import hog
 from PyQt5.QtWidgets import (
